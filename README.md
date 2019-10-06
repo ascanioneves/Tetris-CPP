@@ -1,10 +1,10 @@
 # Tetris-CPP
   
-  ## Compilation :
-     ```cpp
-     g++ tetris.cpp -o sfml-app -lsfml-graphics -lsfml-window -lsfml-system 
-     ```
-  ## Execution :
-    ```cpp
-    ./sfml-app 
-    ```
+  ## Compilation
+     
+     ### g++ tetris.cpp -o sfml-app -lsfml-graphics -lsfml-window -lsfml-system 
+  
+  ## Execution
+
+    ### ./sfml-app 
+    
